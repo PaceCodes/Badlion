@@ -4,7 +4,7 @@ Badlion 3.0.0 Using Gradle instead of the shit mcp uwu
 
 ## Commands
 * Run with random username ```gradle startGame```
-* Run with another username  ```gradle startGame --args='--username KiritoDev'```
+* Run with another username  ```gradle startGame --args='--username Pace'```
 * Build Jar ```gradle build```
 
 ### Errors
