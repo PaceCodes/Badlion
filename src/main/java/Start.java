@@ -8,7 +8,7 @@ public class Start
 {
     public static void main(String[] args)
     {
-        Main.main(concat(new String[] {"--username","Pace","--uuid", "21e679df-ce15-4fbc-b7b0-46981d070660", "--version", "mcp", "--accessToken", "0", "--assetsDir", "assets", "--assetIndex", "1.8", "--userProperties", "{}"}, args));
+        Main.main(concat(new String[] {"--username","","--uuid", "", "--version", "mcp", "--accessToken", "0", "--assetsDir", "assets", "--assetIndex", "1.8", "--userProperties", "{}"}, args));
     }
 
     public static <T> T[] concat(T[] first, T[] second)
