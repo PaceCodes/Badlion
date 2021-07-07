@@ -1,0 +1,58 @@
+# Gradle
+# ------
+.gradle
+/build
+
+# IDEA
+# ----
+.idea
+.shelf
+/*.iml
+/*.ipr
+/*.iws
+/out
+
+# Eclipse
+# -------
+*.classpath
+*.project
+*.settings
+/bin
+atlassian-ide-plugin.xml
+
+# NetBeans
+# --------
+.nb-*
+
+# Vim
+# ---
+*.sw[op]
+
+# Emacs
+# -----
+*~
+
+# Textmate
+# --------
+.textmate
+
+# Sublime Text
+# ------------
+*.sublime-*
+
+# jEnv
+# ----
+.java-version
+
+# OS X
+# ----
+.DS_Store
+
+# HPROF
+# -----
+*.hprof
+
+# MCP
+# -----
+/jars
+/.vscode
