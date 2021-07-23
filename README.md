@@ -10,7 +10,7 @@ Badlion 3.0.0 Using Gradle instead of the shit mcp uwu
 ### Errors
 If returns ```No lwjgl64 in java.library.path``` run ```startGame instead of run```
 
-##HOW TO USE THIS!
+## HOW TO USE THIS!
  
  **For MCP USERS:**
 
