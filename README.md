@@ -38,7 +38,7 @@ And ready! enjoy badlion client without the launcher.
 
 Ready, the client is applied. GG you finally skidded it.
 
-#Important
+# Important
 Libs from mavencentral:
 
 Code:
