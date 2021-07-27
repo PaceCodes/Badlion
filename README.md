@@ -32,7 +32,8 @@ And ready! enjoy badlion client without the launcher.
 
 - replace src folder with src folder downloaded
 
-- open build.gradle file and go to the dependencies braket and add  'org.ow2.asm:asm:8.0.1','net.jpountz.lz4:lz4:1.3.0' to compile  (remember the comma and ' ' )
+- open build.gradle file and go to the dependencies braket and add  'org.ow2.asm:asm:8.0.1',
+- 'net.jpountz.lz4:lz4:1.3.0' to compile  (remember the comma and ' ' )
 
 - run with gradle
 
@@ -43,6 +44,7 @@ Libs from mavencentral:
 
 Code:
 org.ow2.asm:asm:8.0.1
+
 net.jpountz.lz4:lz4:1.3.0
 
 *NOW FOLLOW ME OR BAD YOU SKIDDED IT. I WANT SOMETHING IN RETURN ALSO FOLLOW ME!*
