@@ -1,6 +1,6 @@
 # About
 
-Badlion 3.0.0 Using Gradle instead of the shit mcp uwu
+Badlion Using Gradle instead of the shit mcp uwu
 
 ## Commands
 * Run with random username ```gradle startGame```
